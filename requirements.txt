@@ -1,10 +1,7 @@
 numpy
+pandas
 matplotlib
 scipy
 opencv-python
-numba
-py4DSTEM
 hyperspy
-tqdm
-ase
-cmasher
+jupyterlab
